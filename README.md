@@ -12,18 +12,21 @@ Check out the live version of the app:
 
 ## 📋 **Features**
 
-- Fetches weather data from OpenWeatherMap API.
-- Displays weather details like temperature, humidity, and wind speed.
-- Shows appropriate weather images and descriptions.
-- Error handling for cities not found.
+- Fetches weather data by city name.
+- Displays temperature, humidity, wind speed, and weather conditions.
+- Error handling for invalid city names.
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- OpenWeatherMap API
 
 
-## 🛠️ **Built With**
-
-- **HTML5** - For structuring the app.
-- **CSS3** - For styling and layout.
-- **JavaScript (ES6+)** - For fetching and displaying weather data.
-- **[OpenWeatherMap API](https://openweathermap.org/)** - For real-time weather data.
+## 🚀 Usage
+1. Enter the name of the city in the search box.
+2. Click the search button or press Enter.
+3. View the current weather information displayed on the screen.
 
 
 ### **Installation**
