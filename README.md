@@ -7,7 +7,7 @@ A **simple and clean** weather application that allows users to check current we
 
 Check out the live version of the app:
 
-[Weather App - Live](https://faizan-iqbal-07.github.io/weather-app/)
+[Weather App - Live](https://weather-app-henna-eight-42.vercel.app/)
 
 
 ## 📋 **Features**
